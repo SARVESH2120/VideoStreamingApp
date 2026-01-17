@@ -40,5 +40,10 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.6"
+  },
+
+"overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
   }
+
 }
